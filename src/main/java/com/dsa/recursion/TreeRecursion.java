@@ -1,6 +1,6 @@
 package com.dsa.recursion;
 
-public class treeRecursion {
+public class TreeRecursion {
     public static void main(String[] args) {
         fun(3);
     }

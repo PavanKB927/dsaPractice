@@ -1,6 +1,6 @@
 package com.dsa.recursion;
 
-public class printNumbers {
+public class PrintNumbers {
     public static void main(String[] args) {
         print(5);
     }

@@ -1,6 +1,6 @@
 package com.dsa.recursion;
 
-public class indirectRecursion {
+public class IndirectRecursion {
     public static void main(String[] args) {
         A(20);
     }
